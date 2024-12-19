@@ -1,0 +1,10 @@
+.post{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(41, 41, 41);
+    border-radius: 10px;
+    color: white;
+    font-size: 10;
+    margin: 2px;
+    display: block;
+}
